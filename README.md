@@ -3,7 +3,7 @@
 ## Inventario de Productos
 
 ### Descripción
-Este proyecto Python es una aplicación de línea de comandos que permite gestionar un inventario de productos. Usa SQLite como base de datos para almacenar la información de los productos y ofrece funcionalidades como:
+Este proyecto Python es una aplicación de línea de comandos que permite gestionar un inventario de productos. Usa SQLite como base de datos para almacenar la información de los productos y ofrece distintas funcionalidades como:
 
 * **Registro de productos:** Permite agregar nuevos productos al inventario.
 * **Consulta de productos:** Permite buscar productos por su ID.
