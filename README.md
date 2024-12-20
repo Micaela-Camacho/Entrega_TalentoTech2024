@@ -15,6 +15,7 @@ Este proyecto Python es una aplicación de línea de comandos que permite gestio
 ### Instalación
 1. **Clona el repositorio:**
    ```
+   https://github.com/Micaela-Camacho/Entrega_TalentoTech2024/tree/main/EntregaFinal
    ```
 ### Uso
 1. **Ejecuta el programa:**
